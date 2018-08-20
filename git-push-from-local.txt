@@ -1,0 +1,7 @@
+.LOG
+hi this file created local repo previously cloned and now going to push
+
+
+
+
+i added log to this
